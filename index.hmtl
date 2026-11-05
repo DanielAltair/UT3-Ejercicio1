@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechConsulting S.L. - Portal de Noticias</title>
+</head>
+<body>
+
+  <header>
+    <h1>TechConsulting S.L.</h1>
+
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <header>
+        <h2>Lanzamiento de nuestra nueva plataforma web</h2>
+        <p>Publicado el <time datetime="2026-10-15">15/10/2026</time></p>
+      </header>
+      <p>Hoy presentamos oficialmente nuestra nueva solución tecnológica orientada a la digitalización de procesos en PYMES...</p>
+    </article>
+
+    <article>
+      <header>
+        <h2>Buenas prácticas en ciberseguridad para 2027</h2>
+        <p>Publicado el <time datetime="2026-11-02">02/11/2026</time></p>
+      </header>
+      <p>La seguridad digital es un pilar fundamental. Analizamos los vectores de ataque más comunes y cómo prevenirlos...</p>
+    </article>
+  </main>
+
+  <aside aria-labelledby="titulo-enlaces">
+    <h2 id="titulo-enlaces">Enlaces de interés</h2>
+    <p>Consulta nuestras guías de transformación digital y casos de éxito.</p>
+  </aside>
+
+  <footer>
+    <p>&copy; 2026 TechConsulting S.L. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
